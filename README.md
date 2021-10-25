@@ -6,7 +6,9 @@ My reading notes.
 ## 在读的
 
 1. SICP
-2. CSAPP（Lab）
+2. CSAPP（Lab)
+3. dragon book
+4. catagaries
 
 ## 打算读的
 
